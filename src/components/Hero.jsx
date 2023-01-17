@@ -9,7 +9,7 @@ const Hero = () => {
             <div className='absolute top-[40%] w-full md:-[50%] max-w-[600px] h-full flex flex-col text-white p-4 drop-shadow-xl'>
                <h1 className='font-bold text-5xl drop-shadow-xl'>Find Your Special Trip</h1>
                <h2 className='text-5xl py-4 bold bg-gradient-to-r from-blue-400 to-transparent' >With Weekaway</h2>
-               <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam consectetur culpa, explicabo eum similique iste nobis incidunt blanditiis illum temporibus maiores? Officiis inventore et facilis unde incidunt maiores fuga quasi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod sint voluptatum voluptas voluptate voluptatibus nisi rem delectus dignissimos consectetur est. </p>
+               <p className='pt-6'> Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam consectetur culpa, explicabo eum similique iste nobis incidunt blanditiis illum temporibus maiores? Officiis inventore et facilis unde incidunt maiores fuga quasi. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod sint voluptatum voluptas voluptate voluptatibus nisi rem delectus dignissimos consectetur est. </p>
             </div>
         </div>
     </div>
